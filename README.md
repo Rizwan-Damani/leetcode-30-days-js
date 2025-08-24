@@ -13,7 +13,7 @@
 
 | Day | Problem | Link | Status | Notes |
 |-----|---------|------|--------|-------|
-| 01  | Two Sum | https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript | ✅ Completed | — |
+| 01  | Create Hello World Function | https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript | ✅Completed | ✅ |
 | 02  |  |  | ⏳ In Progress | — |
 | 03  |  |  | ⏳ In Progress | — |
 | 04  |  |  | ⏳ In Progress | — |
