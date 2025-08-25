@@ -15,7 +15,7 @@
 |-----|---------|------|--------|-------|
 | 01  | Create Hello World Function | https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript | ✅Completed | ✅ |
 | 02  | Create Counter Function | https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript | ✅Completed | ✅ |
-| 03  | expect | ⏳ In Progress | — |
+| 03  | expect | https://leetcode.com/problems/to-be-or-not-to-be/submissions/1748089117/?envType=study-plan-v2&envId=30-days-of-javascript | ✅Completed | ✅ |
 | 04  |  |  | ⏳ In Progress | — |
 | 05  |  |  | ⏳ In Progress | — |
 | 06  |  |  | ⏳ In Progress | — |
